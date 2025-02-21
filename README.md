@@ -1,6 +1,8 @@
 # Course-Allocation-using-Maximum-Bipartite-Matching
 Course Allocation for Professors using **Maximum Unweighted Bipartite Matching** according to Professor Preferences.
 
+Check out [Project Report](https://github.com/Pamdi8888/Course-Allocation-using-Maximum-Bipartite-Matching/blob/main/Project%20Report.pdf)
+
 ##  Problem Statement
 
 The research problem at hand revolves around the optimization of the University Course Assignment System. Within a department, there are "n" faculty members categorised into three distinct groups: "x1," "x2," and "x3." Faculty in each category are assigned different course loads, with "x1" handling 0.5 courses per semester, "x2" taking 1 course per semester, and "x3" managing 1 or 1.5 courses per semester.  
